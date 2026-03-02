@@ -27,6 +27,10 @@ These skills guide a five-phase process for implementing new features:
 | Release | `/release [repo] [major\|minor\|patch]` | Automate version bump, changelog, tag, and GitHub release |
 | Regression Test | `/regression-test [project]` | Run the full regression test suite in the browser via Playwright |
 
+## CLAUDE.md
+
+The included [`CLAUDE.md`](CLAUDE.md) defines the development workflow that ties the skills together — git branching strategy, the five-phase feature implementation process, session checklists, and conventions. Drop it into your project root to give Claude Code the full context.
+
 ## Installation
 
 Copy the `skills/` directory into your Claude Code configuration:
