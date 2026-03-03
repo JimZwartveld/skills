@@ -16,6 +16,12 @@ These skills guide a five-phase process for implementing new features:
 | 4 | *(manual)* | — | Execute the plan, track progress |
 | 5 | Code Review | `/code-review feature-name` | Review implementation against the plan |
 
+### Application Design
+
+| Skill | Command | Description |
+|-------|---------|-------------|
+| App Design | `/app-design app-name` | Design a new application from scratch — produces a boundary conditions document covering architecture, separation of concerns, scalability, and exposure strategy |
+
 ### Utility Skills
 
 | Skill | Command | Description |
